@@ -19,37 +19,37 @@
 
 ---?color=#418DFF&font-color=white
 
-### はじめに
+### @color[white](はじめに)
 
 ---?color=#367ABD
 
-### コンペの感想
+### @color[white](コンペの感想)
 
 ---?color=#367ABD
 
-### 今後に向けて
+### @color[white](今後に向けて)
 
 ---?color=#367ABD
-### ワーク
-
----?color=#367ABD
-
-### 視覚シート
+### @color[white](ワーク)
 
 ---?color=#367ABD
 
-### 課題・矛盾シート
+### @color[white](視覚シート)
 
 ---?color=#367ABD
 
-### 因果関係シート
-
----?color=#367ABD
-### PPCOシート
+### @color[white](課題・矛盾シート)
 
 ---?color=#367ABD
 
-### ピッチシート
+### @color[white](因果関係シート)
+
+---?color=#367ABD
+### @color[white](PPCOシート)
+
+---?color=#367ABD
+
+### @color[white](ピッチシート)
 
 ---
 
