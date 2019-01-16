@@ -5,7 +5,7 @@
 
 ---
 
-### 本日の授業内容
+## 本日の授業内容
 
 1. はじめに
 2. コンペの感想
@@ -14,22 +14,22 @@
 
 ---?color=#367ABD&font-color=white
 
-### @color[white](はじめに)
+## @color[white](はじめに)
 
 ---?color=#367ABD
 
-### @color[white](コンペの感想)
+## @color[white](コンペの感想)
 
 ---?color=#367ABD
 
-### @color[white](今後に向けて)
+## @color[white](今後に向けて)
 
 ---?color=#367ABD
-### @color[white](ワーク)
+## @color[white](ワーク)
 
 ---
 
-### ワークの内容
+## ワークの内容
 
 1. 視覚シート
 2. 課題・矛盾シート
@@ -39,22 +39,22 @@
   
 ---?color=#F3A530
 
-### @color[white](視覚シート)
+## @color[white](視覚シート)
 
 ---?color=#F3A530
 
-### @color[white](課題・矛盾シート)
+## @color[white](課題・矛盾シート)
 
 ---?color=#F3A530
 
-### @color[white](因果関係シート)
+## @color[white](因果関係シート)
 
 ---?color=#F3A530
-### @color[white](PPCOシート)
+## @color[white](PPCOシート)
 
 ---?color=#F3A530
 
-### @color[white](ピッチシート)
+## @color[white](ピッチシート)
 
 ---
 
