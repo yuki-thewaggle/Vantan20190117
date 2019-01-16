@@ -17,41 +17,37 @@
   4. PPCOシート
   5. ピッチシート
 
----?color=#418DFF
+---?color=#418DFF&font-color=white
 
 ### はじめに
 
----?color=#418DFF
-
+---?color=#367ABD
 
 ### コンペの感想
 
----?color=#418DFF
-
+---?color=#367ABD
 
 ### 今後に向けて
 
----?color=#418DFF
-
+---?color=#367ABD
 ### ワーク
 
----?color=#418DFF
+---?color=#367ABD
 
 ### 視覚シート
 
----?color=#418DFF
+---?color=#367ABD
 
 ### 課題・矛盾シート
 
----?color=#418DFF
+---?color=#367ABD
 
 ### 因果関係シート
 
----?color=#418DFF
-
+---?color=#367ABD
 ### PPCOシート
 
----?color=#418DFF
+---?color=#367ABD
 
 ### ピッチシート
 
