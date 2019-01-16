@@ -11,13 +11,8 @@
 2. コンペの感想
 3. 今後に向けて
 4. ワーク
-  1. 視覚シート
-  2. 課題・矛盾シート
-  3. 因果関係シート
-  4. PPCOシート
-  5. ピッチシート
 
----?color=#418DFF&font-color=white
+---?color=#367ABD&font-color=white
 
 ### @color[white](はじめに)
 
@@ -32,22 +27,32 @@
 ---?color=#367ABD
 ### @color[white](ワーク)
 
----?color=#367ABD
+---
+
+### ワークの内容
+
+1. 視覚シート
+2. 課題・矛盾シート
+3. 因果関係シート
+4. PPCOシート
+5. ピッチシート
+  
+---?color=#F3A530
 
 ### @color[white](視覚シート)
 
----?color=#367ABD
+---?color=#F3A530
 
 ### @color[white](課題・矛盾シート)
 
----?color=#367ABD
+---?color=#F3A530
 
 ### @color[white](因果関係シート)
 
----?color=#367ABD
+---?color=#F3A530
 ### @color[white](PPCOシート)
 
----?color=#367ABD
+---?color=#F3A530
 
 ### @color[white](ピッチシート)
 
